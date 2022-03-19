@@ -5,7 +5,6 @@ public class main {
 			try {
 				int a = Integer.parseInt(array[i]);
 				returned += a;
-				System.out.println(a);
 			} catch (Exception e) {
 				
 			}
