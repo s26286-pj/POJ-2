@@ -1,0 +1,4 @@
+http://google.pl 2000 Strona google-a pl
+http://google.no 33 Strona google-a no
+http://google.uk 11 Strona google-a uk
+http://google.tr 222 Strona google-a tr
